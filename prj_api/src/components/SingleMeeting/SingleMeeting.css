@@ -1,0 +1,30 @@
+ .SingleMeeting {
+    width: 30%;
+    border: solid 2px black;
+    background-color: #faf8ee;
+    height: 490px;
+    margin-bottom: 2%;
+    margin-top: 260px;
+    text-align: center;
+    border-radius: 50px;
+}
+ 
+.SingleMeeting-title {
+font-size: 30px;
+font-weight: bold;
+margin-bottom: 5px;
+color: rgb(15, 15, 15);
+}
+
+.SingleMeeting-description {
+font-size: 14px;
+margin-bottom: 5px;
+}
+
+.SingleMeeting.today .today{
+    font-size: 20px;
+    background-color: #050505 ;
+    color:#faf8ee; ;
+}
+
+

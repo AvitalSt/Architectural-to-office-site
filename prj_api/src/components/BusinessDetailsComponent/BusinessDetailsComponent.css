@@ -1,0 +1,33 @@
+.business-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #ffffff;
+  padding: 20px;
+}
+.business-details {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 20%;
+}
+.business-name {
+  color: black;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: 2px 2px 2px #f4cd7a;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.business-logo {
+  width: 12%;
+  left: 10%;
+  top: 0;
+  position: fixed;
+}
+body{
+  background-color: white;
+}

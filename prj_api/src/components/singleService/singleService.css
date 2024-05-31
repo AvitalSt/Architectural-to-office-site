@@ -1,0 +1,32 @@
+ .singleservicediv {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   margin: 0 auto;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   color: black;
+   width: 30%;
+   background-color: #faf8ee;
+   border: black solid 2px;
+   margin-top: 25%;
+ }
+
+ body {
+   direction: rtl;
+ }
+
+ .singleservicediv {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   padding: 20px;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+   color: black;
+   width: 90%;
+
+ }

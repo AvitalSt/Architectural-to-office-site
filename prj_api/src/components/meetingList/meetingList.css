@@ -1,0 +1,13 @@
+body {
+    direction: rtl;
+}
+
+.allMeeting{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 4%;
+    margin-bottom: 10%;
+}
+
